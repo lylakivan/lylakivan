@@ -11,6 +11,7 @@ Version control tools: Git, GitHub
 
 My projects:
 Restaurant Kitchen Service - https://github.com/lylakivan/restaurant-kitchen-service
+
 Theatre Service API - https://github.com/lylakivan/theatre-api-service
 
 
@@ -22,7 +23,9 @@ I am always looking forward to new challenges and opportunities for cooperation.
 
 Contact:
 Email: lylakivanwork@gmail.com
+
 Telegram: https://t.me/Lylak_Ivan
+
 LinkedIn: https://www.linkedin.com/in/ivan-lylak/
 
 Thank you for your attention!
